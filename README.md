@@ -21,6 +21,6 @@ In addition to making course submissions, the purpose of the repo is to:
 - Raise my productivity
 - Increase my green squares because I'm vain
 
-Thank you to [Matti Luukkainen](https://github.com/mluukkai), [Terveystalo](https://www.terveystalo.com/fi/Yritystietoa/Terveystalo-tyontantajana/Digital-Health/) and the [many other contributors](https://github.com/fullstack-hy2020/misc/blob/master/contributors.md) for providing this course. I've only started yesterday and have already benefitted immensely from the material.
+Thank you to [Matti Luukkainen](https://github.com/mluukkai), [Terveystalo](https://www.terveystalo.com/fi/Yritystietoa/Terveystalo-tyontantajana/Digital-Health/) and the [many other contributors](https://github.com/fullstack-hy2020/misc/blob/master/contributors.md) for providing this course. I've only started yesterday( Aug 27 2020 ) and have already benefitted immensely from the material.
 
 I'd recommend anyone who reads this to check it out yourself and have fun!
